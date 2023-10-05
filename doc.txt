@@ -1,0 +1,9 @@
+https://github.com/vivekneupane11/qui...
+Demo:
+https://quiz-ky8n2860x-vivekneupane11...
+Links:
+Components UI :https://ui.shadcn.com/docs
+Quiz Api : https://opentdb.com/
+NextJS: https://nextjs.org/docs
+FlowBite : https://flowbite.com/
+Lottie: https://lottiefiles.com/
